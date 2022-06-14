@@ -1,1 +1,10 @@
-### This script parse data from [https://floramoscow.ru](https://floramoscow.ru) and save it to .xlsx file
+# FloraMoscow Parser
+
+This simple script was made as a small freelance project.
+
+The script parse all products from chosen category 
+on [floramoscow](https://floramoscow.ru) website 
+and save all the extracted information in xlsx file.
+
+Writen with BeautifulSoup and xlsxwriter. All packages needed 
+are listed in `requirements.txt`
